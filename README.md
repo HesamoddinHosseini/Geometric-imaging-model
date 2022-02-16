@@ -17,6 +17,8 @@ Abstract)
 
 We design a system with which we can measure depth. This project is divided into two main stages. First, we have to get the size of the focal length of the camera (f) and so on with the help of several experiments and recording the image at different set depths. Then, knowing f and other parameters, record an image at an unknown depth and measure the depth.
 
+Hesamoddin Hosseini
+
 # Persian
 سوال)
 
@@ -32,3 +34,5 @@ K. Khoshelham and S. O. Elberink, “Accuracy and resolution of Kinect depth dat
 خلاصه)
 
 یک سیستم طراحی می کنیم که با آن بتوانیم عمق را بسنجیم. این پروژه به دو مرحله اصلی تقسیم می شود. ابتدا باید به کمک چند آزمایش و ثبت تصویر در عمق های تعیین شده مختلف، اندازه فاصله کانونی دوربین (f) و... را بدست آوریم. سپس با دانستن f و سایر پارامتر های بدست آمده، تصویری در عمق مجهول ثبت کنیم و عمق را اندازه گیری نماییم.
+
+Hesamoddin Hosseini
