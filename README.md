@@ -1,4 +1,4 @@
-# Geometric-imaging-model
+# Geometric-imaging-model, Mini-Project 1
 
 # English
 
