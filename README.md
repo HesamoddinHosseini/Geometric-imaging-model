@@ -1,4 +1,4 @@
-# Geometric-imaging-model, Mini-Project 1
+# Digital Image Processing (DIP),Geometric-imaging-model, Mini-Project 1
 
 # English
 
